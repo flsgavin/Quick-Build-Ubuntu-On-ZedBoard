@@ -5,7 +5,7 @@ This project provides compiled boot image. You don't need to compile u-boot and 
 ## Requirements
 - Xilinx ZedBorad 
 - SD card ( >4GB )
-- A PC (running Ubuntu)
+- PC (running Ubuntu)
 
 ## Description of directory structure
 |Directory|Description|
