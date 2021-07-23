@@ -3,7 +3,7 @@ This project provides a quick way to build Ubuntu on the Xilinx ZedBoard.
 This project provides compiled boot image. You don't need to compile u-boot and Linux kernel, etc.
 
 ## Requirements
-- Xilinx ZedBorad 
+- Xilinx ZedBoard 
 - SD card ( >4GB )
 - PC (running Ubuntu)
 
