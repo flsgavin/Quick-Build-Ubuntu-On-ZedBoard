@@ -69,7 +69,6 @@ This project provides compiled boot image. You don't need to compile u-boot and 
     - `sudo tar -xJvf ubuntu-18.04-2-minimal-armhf-2019-02-16.tar.xz`
     - `cd ubuntu-18.04-2-minimal-armhf-2019-02-16`
     - `sudo tar xvf armhf-rootfs-ubuntu-bionic.tar`
-    - `cd armhf-rootfs-ubuntu-bionic`
     - `sudo rsync -av ./ /media/ubuntu/root`
 
 7. Startup Ubuntu on your ZedBoard
