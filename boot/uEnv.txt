@@ -1,5 +1,4 @@
 kernel=uImage
 devicetree=devicetree.dtb
-bootargs=console=ttyPS0,115200 consoleblank=0 root=/dev/mmcblk0p2 rw rootwait
-earlyprintk
+bootargs=console=ttyPS0,115200 consoleblank=0 root=/dev/mmcblk0p2 rw rootwait earlyprintk
 mmc_bootcmd=fatload mmc 0 0x3000000 ${kernel}; fatload mmc 0 0x2a00000 ${devicetree}; bootm 0x3000000 - 0x2a00000
