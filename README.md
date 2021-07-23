@@ -84,5 +84,5 @@ This project provides compiled boot image. You don't need to compile u-boot and 
         `default username:password is [ubuntu:temppwd]`<br/> 
         `arm login:`<br/> 
         <br/>
-    Ubuntu started successfully!
+    Ubuntu boot successfully!
     
