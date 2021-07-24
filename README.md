@@ -74,7 +74,7 @@ This project provides compiled boot image. You don't need to compile u-boot and 
 7. Startup Ubuntu on your ZedBoard
 
     - Insert SD card into ZedBoard
-    - Connecting ZedBoard UART to PC
+    - Connect ZedBoard UART to PC
     - Poweron your ZedBoard
     - Open the serial software and set the baud rate to 115200
     - When When serial output:
