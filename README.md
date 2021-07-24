@@ -77,7 +77,7 @@ This project provides compiled boot image. You don't need to compile u-boot and 
     - Connect ZedBoard UART to PC
     - Poweron your ZedBoard
     - Open the serial software and set the baud rate to 115200
-    - When When serial output:
+    - When serial output:
 
         `Ubuntu 18.04.2 LTS arm ttyPS0` <br/> 
         `default username:password is [ubuntu:temppwd]`<br/> 
